@@ -1,3 +1,6 @@
+Leilao (Alura\Leilao\Tests\Model\Leilao)
+ [x] Leilao deve receber lances
+
 Avaliador (Alura\Leilao\Tests\Service\Avaliador)
  [x] Avaliador deve encontrar o maior valor de lances with data set "ordem-aleatoria"
  [x] Avaliador deve encontrar o maior valor de lances with data set "ordem-crescente"
